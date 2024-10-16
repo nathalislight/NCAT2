@@ -4,4 +4,4 @@
 ESP32S3 development version of NCAT (Collection of apps: AUDIO PLAYER, NES, SNES, ...) Work in progress
 
 ### NCAT-ESP32S3-DevKit
-<img src="https://github.com/nathalislight/NCAT2/blob/main/DIAGRAMS/NCAT-ESP32S3-DevKit.png" align="center" height="640" width="400">
+<img src="https://github.com/nathalislight/NCAT2/blob/main/DIAGRAMS/NCAT-ESP32S3-DevKit.png" align="center" height="400" width="640">
